@@ -7,7 +7,7 @@ Analyze sales data from a CSV file using Python Pandas and create basic visualiz
 - Python
 - Pandas
 - Matplotlib
-- Google Colab / Jupyter Notebook
+- Google Colab 
 
 ## Work Done
 - Loaded CSV file using Pandas
@@ -27,5 +27,3 @@ Sales analysis with chart showing product-wise sales.
 ## Screenshot
 ![Sales Chart](1.jpg)
 
-## Screenshot
-![Sales Chart](screenshot.png)
