@@ -1,15 +1,15 @@
 Task 5 – Data Analysis on CSV Files
 
-Objective:
+# Objective:
 Analyze sales data using Pandas.
 
-Tools Used:
+# Tools Used:
 Python, Pandas, Google Colab
 
-Work Done:
+# Work Done:
 Loaded CSV file
 Analyzed sales data
 Created charts
 
-Output:
+# Output:
 Basic sales insights.
